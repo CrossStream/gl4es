@@ -24,3 +24,13 @@ Multi-Arch: same
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: GL4ES - OpenGL for GLES Hardware
  <insert long description, indented with spaces>
+
+Package: gl4es-snapshot
+Architecture: all
+Section: utils
+Depends: ${misc:Depends}, gl4es (= ${source:Version})
+Suggests: rzr
+Priority: extra
+Description: unreleased snapshot version
+ TODO: Remove on issue and upgrade gl4es
+

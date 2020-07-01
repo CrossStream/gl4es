@@ -1,3 +1,9 @@
+gl4es (0.v1.1.4+4+g68cd0cc-11) unstable; urgency=medium
+
+  * debian: WIP: Release 0.v1.1.4+4+g68cd0cc-11 (snapshot)
+
+ -- Philippe Coval <rzr@users.sf.net>  Wed, 01 Jul 2020 09:53:54 +0200
+
 gl4es (0.v1.1.4+4+g68cd0cc-9) unstable; urgency=medium
 
   * debian: WIP: Release 0.v1.1.4+4+g68cd0cc-9 (snapshot)

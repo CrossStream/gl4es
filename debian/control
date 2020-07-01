@@ -4,6 +4,8 @@ Maintainer: Philippe Coval <rzr@users.sf.net>
 Build-Depends: debhelper-compat (= 12),
 	       cmake,
 	       libdrm-dev,
+	       libegl-dev,
+	       libgbm-dev,
 	       libx11-dev
 Standards-Version: 4.4.1
 Section: libs

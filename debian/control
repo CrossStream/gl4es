@@ -6,7 +6,8 @@ Build-Depends: debhelper-compat (= 12),
 	       libdrm-dev,
 	       libegl-dev | libglvnd-dev,
 	       libgbm-dev,
-	       libx11-dev
+	       libx11-dev,
+	       pkg-config
 Standards-Version: 4.4.1
 Section: libs
 Homepage: https://github.com/ptitSeb/gl4es/
